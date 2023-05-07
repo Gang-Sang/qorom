@@ -6,3 +6,7 @@
 </div>
 
 <slot></slot>
+
+<div>
+    Footer
+</div>
