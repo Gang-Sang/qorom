@@ -1,12 +1,8 @@
-
-
 <div>
 	<div>Header</div>
 	<div>MENU</div>
 </div>
 
-<slot></slot>
+<slot />
 
-<div>
-    Footer
-</div>
+<div>Footer</div>

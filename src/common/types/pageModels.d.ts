@@ -1,10 +1,10 @@
-import type { ForumCategory, Forum, Post } from './dataTypes';
+import type { Forum, Post } from './dataTypes';
 
 export interface HomeModel {
-    forumCategories: ForumCategory[];
+	forums: Forum[];
 }
 
 export interface ForumModel {
-    forum: Forum;
-    posts: Post[];
+	forum: Forum;
+	posts: Post[];
 }
