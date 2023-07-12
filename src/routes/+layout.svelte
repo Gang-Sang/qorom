@@ -43,7 +43,7 @@
 	<div>MENU</div>
 </div>
 
-<div>
+<div style="width:100%">
 	<slot />
 </div>
 
